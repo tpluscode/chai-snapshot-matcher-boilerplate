@@ -1,1 +1,56 @@
-# chai-snapshot-matcher-boilerplate
+# Boilerplate Project for chai-snapshot-matcher
+
+## Objective:
+
+Boilerplate project with some examples about how to use the chai-snapshot-matcher
+
+## How to install chai-snapshot-matcher:
+
+You can install chai-snapshot-matcher using:
+
+- npm:
+
+```
+npm install chai-snapshot-matcher
+```
+
+- yarn:
+
+```
+yarn add chai-snapshot-matcher
+```
+
+## Version:
+
+This boilerplate project use the v1.0.3. In fact, this is the latest and only recommended version.
+
+## Features:
+
+- chai-snapshot-matcher
+- mocha
+- chai
+- eslint and prettier configuration
+
+## How to start
+
+- Download or fork the project
+
+- Install
+
+```
+yarn install
+```
+
+- Run Linter
+
+```
+yarn lint
+```
+
+- Run Tests
+
+```
+yarn test
+```
+
+
