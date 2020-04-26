@@ -184,10 +184,10 @@ camelcase@^5.0.0:
   resolved "https://registry.yarnpkg.com/camelcase/-/camelcase-5.3.1.tgz#e3c9b31569e106811df242f715725a1f4c494320"
   integrity sha512-L28STB170nwWS63UjtlEOE3dldQApaJXZkOI1uMFfzf3rRuPegHaHesyee+YxQ+W6SvRDQV6UrdOdRiR153wJg==
 
-chai-snapshot-matcher@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/chai-snapshot-matcher/-/chai-snapshot-matcher-1.0.0.tgz#f258439b2877eddc2f19d4606bc0a2d1c692794e"
-  integrity sha512-2hQ3CHV/IraEdu1vbSEUw1Z/1SSl15C7GAftfUT4b3w7SUGTyAygD1coSdDuo6i8AXJR4gkTgA6JSAh5uwAMSQ==
+chai-snapshot-matcher@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/chai-snapshot-matcher/-/chai-snapshot-matcher-1.0.3.tgz#3a291ccc958bc90167f06de89a01b717665eabf2"
+  integrity sha512-VNMNkYRSXBdxVeKevvki/m0Y1XrndXslXWgo1PkVAJ7TPKqUtiBzgT8eAmU4aq+eoYT0pgTWNenHazMJOJsAow==
 
 chai@^4.2.0:
   version "4.2.0"
@@ -407,6 +407,11 @@ doctrine@^3.0.0:
   integrity sha512-yS+Q5i3hBf7GBkd4KG8a7eBNNWNGLTaEwwYWUijIYM7zrlYDM0BFXHjjPWlWZ1Rg7UaddZeIDmi9jF3HmqiQ2w==
   dependencies:
     esutils "^2.0.2"
+
+dotenv@^8.2.0:
+  version "8.2.0"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-8.2.0.tgz#97e619259ada750eea3e4ea3e26bceea5424b16a"
+  integrity sha512-8sJ78ElpbDJBHNeBzUbUVLsqKdccaa/BXF1uPTw3GrvQTBgrQrtObr2mUrE38vzYd8cEv+m/JBfDLioYcfXoaw==
 
 emoji-regex@^7.0.1:
   version "7.0.3"
