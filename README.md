@@ -22,7 +22,7 @@ yarn add chai-snapshot-matcher
 
 ## Version:
 
-This boilerplate project use the v1.0.3. In fact, this is the latest and only recommended version.
+This boilerplate project use the chai-snapshot-matcher v1.0.4. In fact, this is latest and recommended version.
 
 ## Features:
 
@@ -53,4 +53,14 @@ yarn lint
 yarn test
 ```
 
+- Update Snapshots
 
+```
+yarn test --update
+```
+
+- Run in a CI system
+
+```
+yarn test --ci
+```
