@@ -1,4 +1,4 @@
-# Boilerplate Project for chai-snapshot-matcher
+# chai-snapshot-matcher Boilerplate Project
 
 ## Objective:
 
