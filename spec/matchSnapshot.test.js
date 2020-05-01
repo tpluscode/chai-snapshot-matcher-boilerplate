@@ -1,4 +1,3 @@
-require('chai-snapshot-matcher');
 const { expect } = require('chai');
 
 describe('chai-snapshot-matcher', function() {

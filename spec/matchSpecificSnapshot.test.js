@@ -1,4 +1,3 @@
-require('chai-snapshot-matcher');
 require('dotenv').config();
 const { expect } = require('chai');
 
