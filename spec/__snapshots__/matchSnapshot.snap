@@ -24,3 +24,5 @@ exports["chai-snapshot-matcher - matchSapshot - use the hint attribute to have m
 
 exports["chai-snapshot-matcher - matchSapshot - use the hint attribute to have more than one matchSnapshot per it (type)"] = "number";
 
+exports["chai-snapshot-matcher - matchSapshot - stores multiline snapshots"] = "this string\nspans across\nmultiple lines";
+

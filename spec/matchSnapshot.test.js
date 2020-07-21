@@ -50,5 +50,13 @@ describe('chai-snapshot-matcher', function() {
       expect(testVar).to.matchSnapshot(this, '(value)');
       expect(typeof testVar).to.matchSnapshot(this, '(type)');
     });
+
+    it('stores multiline snapshots', function() {
+      const testVar = `this string
+spans across
+multiple lines`;
+
+      expect(testVar).to.matchSnapshot(this);
+    });
   });
 });
